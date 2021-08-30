@@ -2,6 +2,7 @@
   "name": "crontab.am",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://latermonk.github.io/Crontab-web/",
   "dependencies": {
     "cronstrue": "^1.98.0",
     "moment": "^2.23.0",
